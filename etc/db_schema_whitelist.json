@@ -1,0 +1,19 @@
+{
+    "mh_store_locator": {
+        "column": {
+            "entity_id": true,
+            "name": true,
+            "description": true,
+            "image": true,
+            "address": true,
+            "working_hours": true,
+            "longitude": true,
+            "latitude": true,
+            "created_at": true,
+            "updated_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
